@@ -1,0 +1,17 @@
+word_list = [
+  'le',
+  'la',
+  'les',
+  'des',
+  'du',
+  'de',
+  'se',
+  'ce',
+  'ses',
+  'ces',
+  'un',
+  'une',
+  'mais',
+  'et',
+  'est'
+]
